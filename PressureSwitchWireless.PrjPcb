@@ -67,13 +67,13 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
-DocumentPath=..\..\..\..\..\Downloads\nrf52810qxaareflayoutv10\nRF52810-QxAA Reference Layout 1_0\Altium Designer files\nRF52810-QCAA\nrf52810_qcaa_dcdc.SchDoc
+DocumentPath=..\..\..\..\..\Downloads\nrf52810qxaareflayoutv10\nRF52810-QxAA Reference Layout 1_0\Altium Designer files\nRF52810-QCAA\PressureSwitchWireless.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PAUVGBTG
 
 [Document3]
-DocumentPath=..\..\..\..\..\Downloads\nrf52810qxaareflayoutv10\nRF52810-QxAA Reference Layout 1_0\Altium Designer files\nRF52810-QCAA\nrf52810_qcaa_dcdc.PcbDoc
+DocumentPath=..\..\..\..\..\Downloads\nrf52810qxaareflayoutv10\nRF52810-QxAA Reference Layout 1_0\Altium Designer files\nRF52810-QCAA\PressureSwitchWireless.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
